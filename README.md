@@ -24,24 +24,24 @@
 
 ### Задание 1
 
-![Задание 1](https://github.com/IthnHuitn/ELK/blob/main/Задание 1-1.jpg)
+![Задание1](https://github.com/IthnHuitn/ELK/blob/main/Задание 1-1.jpg)
 
 
 ### Задание 2
 
-![Задание 2](https://github.com/IthnHuitn/ELK/blob/main/Задание 2-1.jpg)
+![Задание2](https://github.com/IthnHuitn/ELK/blob/main/Задание 2-1.jpg)
 
 
 ### Задание 3
 
-![Задание 3](https://github.com/IthnHuitn/ELK/blob/main/Задание 3-1.jpg)
+![Задание3](https://github.com/IthnHuitn/ELK/blob/main/Задание 3-1.jpg)
 
 ### Задание 4
 
-![Задание 4](https://github.com/IthnHuitn/ELK/blob/main/Задание 4-1.jpg)
+![Задание4](https://github.com/IthnHuitn/ELK/blob/main/Задание 4-1.jpg)
 
 ### Задание 5
 
-![Задание 5](https://github.com/IthnHuitn/ELK/blob/main/Задание 5-1.png)
-![Задание 5](https://github.com/IthnHuitn/ELK/blob/main/Задание 5-2.png)
-![Задание 5](https://github.com/IthnHuitn/ELK/blob/main/Задание 5-3.png)
+![Задание5](https://github.com/IthnHuitn/ELK/blob/main/Задание 5-1.png)
+![Задание5](https://github.com/IthnHuitn/ELK/blob/main/Задание 5-2.png)
+![Задание5](https://github.com/IthnHuitn/ELK/blob/main/Задание 5-3.png)
