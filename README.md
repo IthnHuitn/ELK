@@ -26,19 +26,25 @@
 
 ![Задание1](https://github.com/IthnHuitn/ELK/blob/main/Задание 1-1.jpg)
 
+---
 
 ### Задание 2
 
 ![Задание2](https://github.com/IthnHuitn/ELK/blob/main/Задание 2-1.jpg)
 
+---
 
 ### Задание 3
 
 ![Задание3](https://github.com/IthnHuitn/ELK/blob/main/Задание 3-1.jpg)
 
+---
+
 ### Задание 4
 
 ![Задание4](https://github.com/IthnHuitn/ELK/blob/main/Задание 4-1.jpg)
+
+---
 
 ### Задание 5
 
